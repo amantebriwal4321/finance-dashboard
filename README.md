@@ -15,9 +15,9 @@ A modern, minimal finance dashboard built with React, Vite, and Tailwind CSS. I 
 
 1. Clone or download the repo.
 2. Install the dependencies:
-   ```bash
+   
    npm install
-   ```
+   
 3. Start the dev server:
    ```bash
    npm run dev
